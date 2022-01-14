@@ -20,7 +20,7 @@ Base configurada com exemplos de endpoint e rotas, assim facilitando o entendime
 
 ## Instalação
 
-Está base necessita de [Node.js](https://nodejs.org/) v17+ para funcionar.
+Esta base precisa de [Node.js](https://nodejs.org/) v17+ para funcionar.
 
 ### Instalando todas as dependências e startando o servidor.
 
