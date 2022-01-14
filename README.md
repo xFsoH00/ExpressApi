@@ -39,8 +39,8 @@ npm run start
 ```
 
 #### Importante
-Lembre-se de colocar todas as variaveis necessárias, localizadas nos arquivos .env, .firebaseserc, const.js\n
-Leia os comentários para melhor entendimento, e caso precise usar o banco de dados se atente ao arquivo db.js\n
+Lembre-se de colocar todas as variaveis necessárias, localizadas nos arquivos .env, .firebaseserc, const.js<br>
+Leia os comentários para melhor entendimento, e caso precise usar o banco de dados se atente ao arquivo db.js<br>
 Caso queira usar o Custom Search da Google, lembre-se de ativar a sua própria API no Google Cloud
 
 
